@@ -1,3 +1,11 @@
+.result{
+    border : 1px solid black;
+    width : 500px;
+    height : 100px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+    font-size: 30px;
+    font-weight: bold;
+}
 
 .square{
       border : 1px solid black;
@@ -7,4 +15,17 @@
     box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
     font-size: 50px;
     font-weight: bold;
+}
+
+.timesInput{
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    text-align: center;
+}
+.modifierInput{
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    text-align: center;
 }
